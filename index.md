@@ -7,7 +7,7 @@ I'm currently a Research Engineer at [ONERA](https://www.onera.fr/en) in Paris. 
 
 Before that I was a Data Scientist working on computational pathology at [Aignostics](https://www.aignostics.com/) in Berlin. As such, I mostly developed machine learning models and pipelines to run segmentation and classification on whole slide images depicting human tissue with immune cells and cancer.
 
-Before that I was a PhD student in machine learning at [Mines Paris](https://en.wikipedia.org/wiki/Mines_ParisTech) (part of [PSL University](https://en.wikipedia.org/wiki/Paris_Sciences_et_Lettres_University)) and [Thales](https://en.wikipedia.org/wiki/Thales_Group). This research was financed by a [*Cifre-Défense* grant](https://www.defense.gouv.fr/aid/theses/appels-projets/theses-aid-cifre-defense-2025).
+Before that I was a PhD student in machine learning at [Mines Paris](https://en.wikipedia.org/wiki/Mines_ParisTech) (part of [PSL University](https://en.wikipedia.org/wiki/Paris_Sciences_et_Lettres_University)) and [Thales](https://en.wikipedia.org/wiki/Thales_Group). This research was financed by a [*Cifre-Défense* grant](https://www.defense.gouv.fr/aid/theses/appels-projets/theses-aid-cifre-defense-2026).
 
 ## Research Interest
 
@@ -17,9 +17,9 @@ I'm interested in anomaly detection, also called out-of-distribution detection o
 
 ## Publications & abstracts
 
-[Detecting radar targets swarms in range profiles with a partially complex-valued neural network](https://arxiv.org/abs/2602.09597)
+[Detecting radar targets swarms in range profiles with a partially complex-valued neural network](https://hal.science/hal-05501628v1)
 
-Preprint under review
+Accepted for presentation at EUSIPCO 2026
 
 ---
 
@@ -35,7 +35,7 @@ Preprint under review
 
 ---
 
-[One-class classification for low resolution targets discrimination with limited supervision in pulse Doppler radars](https://www.theses.fr/en/2023UPSLM005)
+[One-class classification for low resolution targets discrimination with limited supervision in pulse Doppler radars](https://pastel.hal.science/tel-04106703/)
 
 Thesis defense 18/01/2023
 
