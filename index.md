@@ -63,7 +63,7 @@ Dataset generation [code](https://github.com/Blupblupblup/Doppler-Signatures-Gen
 
 ## Teaching
 
-Lecturer for the [IA716 : Computer vision](https://synapses.telecom-paris.fr/catalogue/2025-2026/ue/15283/IA716-computer-vision) (graduate) course of Télécom Paris - 1st semester of 2025-2026.
+Lecturer for the [IA716 : Computer vision](https://synapses.telecom-paris.fr/catalogue/2025-2026/ue/15283/IA716-computer-vision) (graduate) course of Télécom Paris - 1st semester of 2025-2026, 2026-2027.
 
 Teaching assistant for the embedded systems (undergraduate) course of [IUT de Cachan](https://www.iut-cachan.universite-paris-saclay.fr/) - 2nd semester of 2024-2025.
 
@@ -75,7 +75,7 @@ Teaching assistant for the [probability course](https://github.com/boisgera/CDIS
 
 ## Misc
 
-I contributed to the review of a grant application for the [BPI France "AI pioneers"](https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-des-pionniers-de-lintelligence-artificielle) (2025-2026) call for projects.
+I reviewed two grant applications for the [BPI France "AI pioneers"](https://www.bpifrance.fr/nos-appels-a-projets-concours/appel-a-projets-des-pionniers-de-lintelligence-artificielle) (2025-2026) call for projects.
 
 I talked about anomaly detection at a Franco-German University [workshop on mathematical image processing](https://www.itwm.fraunhofer.de/en/fairs_events/2022/2022_05_23_german-french-workshop.html) in May 2022 in Kaiserslautern.
 
