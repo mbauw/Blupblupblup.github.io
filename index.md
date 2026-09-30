@@ -23,6 +23,12 @@ Preprint, under review
 
 ---
 
+Robust radar detection for dense groups of targets
+
+[Conference on Artificial Intelligence for Defence (CAID) 2026](https://caid-conference.eu/) (poster, non-archival conference)
+
+---
+
 [Detecting radar targets swarms in range profiles with a partially complex-valued neural network](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2026/pdfs/0002276.pdf)
 
 EUSIPCO 2026
