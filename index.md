@@ -17,9 +17,15 @@ I'm interested in anomaly detection, also called out-of-distribution detection o
 
 ## Publications & abstracts
 
-[Detecting radar targets swarms in range profiles with a partially complex-valued neural network](https://hal.science/hal-05501628v1)
+[Graph neural networks for sampling-invariant embeddings of organized signal sets](https://arxiv.org/abs/2609.35934)
 
-Accepted for presentation at EUSIPCO 2026
+Preprint, under review
+
+---
+
+[Detecting radar targets swarms in range profiles with a partially complex-valued neural network](https://www.eurasip.org/Proceedings/Eusipco/Eusipco2026/pdfs/0002276.pdf)
+
+EUSIPCO 2026
 
 ---
 
