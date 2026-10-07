@@ -65,7 +65,7 @@ Dataset generation [code](https://github.com/Blupblupblup/Doppler-Signatures-Gen
 
 [Deep random projection outlyingness for unsupervised anomaly detection](https://hal.archives-ouvertes.fr/hal-03203686)
 
-2021 ICML [UDL Workshop](https://sites.google.com/view/udlworkshop2021/home) (under review for publication)
+2021 ICML [UDL Workshop](https://sites.google.com/view/udlworkshop2021/home) 
 
 ---
 
